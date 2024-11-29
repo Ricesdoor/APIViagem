@@ -3,7 +3,6 @@ package com.example.APIViagem.service;
 import com.example.APIViagem.api.model.Destination;
 import org.springframework.stereotype.Service;
 
-import javax.swing.text.html.Option;
 import java.util.ArrayList;
 import java.util.List;
 import java.util.Optional;
